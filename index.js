@@ -2,7 +2,7 @@
 
 const Joi = require('joi');
 
-module.exports.validate = callback => {
+module.exports = callback => {
   const schema = callback(Joi);
   const { error, value } = Joi.validate(process.env, schema, {
     stripUnknown: true,
