@@ -1,6 +1,6 @@
 'use strict';
 
-const { validate } = require('../config');
+const validate = require('../index');
 
 describe('validate', () => {
   it('should pass if environment variable is defined', () => {
