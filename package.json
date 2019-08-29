@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "joi": "^14.3.0"
+    "@hapi/joi": "15.1.1"
   }
 }
