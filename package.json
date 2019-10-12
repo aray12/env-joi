@@ -1,6 +1,6 @@
 {
   "name": "env-joi",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Simple environment variable configuration validation",
   "main": "index.js",
   "repository": "git@github.com:aray12/env-joi.git",
@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "joi": "^14.3.0"
+    "@hapi/joi": "15.1.1"
   }
 }
