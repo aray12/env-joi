@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# yarn berry
+**/.yarn/*
+!**/.yarn/plugins
+!**/.yarn/releases

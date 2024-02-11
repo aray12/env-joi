@@ -6,8 +6,8 @@
   "repository": "git@github.com:aray12/env-joi.git",
   "author": "Alex Ray <alex.ray12@gmail.com>",
   "license": "MIT",
-  "private": false,
   "dependencies": {
     "@hapi/joi": "15.1.1"
-  }
+  },
+  "packageManager": "yarn@4.1.0"
 }
